@@ -3,7 +3,7 @@
 
 > Future decisions should feel **data-backed, not random.**
 ---
-## Stack###########
+## Stack
 
 # 🌌 Overview
 
