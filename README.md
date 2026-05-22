@@ -5,7 +5,7 @@
 ---
 ## Stack###########
 
-# 🌌 Overview
+# 🌌 Overview...
 
 CareerVerse AI is an immersive AI-powered career simulation platform designed to help students explore future careers through real-world decision-making experiences.
 
